@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **everything**
 
-<h3 align="left">Connect with me: aaqcunningham@proton.me</h3>
+<h3 align="left">Connect with me: aqcunningham@proton.me</h3>
 <p align="left">
 </p>
 
